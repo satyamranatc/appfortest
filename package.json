@@ -1,0 +1,7 @@
+{
+    "name": "APPFORTEST",
+    "scripts": {
+      "build": "cd FrontEnd && npm install && npm run build"
+    }
+  }
+  
